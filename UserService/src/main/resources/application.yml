@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/keepNote5
+      database: keepNote5
+      port:  27017
+      username: shweta
+      password: Root@123
+      host: localhost
+server:
+  port: 8082
+

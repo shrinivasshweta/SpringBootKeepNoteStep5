@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/reminderDB
+      database: reminderDB
+      port:  27017
+      username: shweta
+      password: Root@123
+      host: localhost
+server:
+  port: 8083

@@ -1,0 +1,11 @@
+
+spring:
+  data:
+    mongodb:
+      database: noteDemo
+      username: shweta
+      password: Root@123
+      uri: mongodb://localhost/noteDemo
+      
+server:
+  port: 8085

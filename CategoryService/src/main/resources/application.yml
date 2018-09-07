@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: categoryDemo
+      port:  27017
+      username: smita
+      password: Root@123
+      host: localhost
+server:
+  port: 8084
